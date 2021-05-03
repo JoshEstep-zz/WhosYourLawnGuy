@@ -10,7 +10,7 @@ draft: false
 about:
   enable : true
   image : "images/house.jpeg"
-  title : "We strive to be the best and <br> make awesome work."
+  title : "Treating Our Lawns and Customers Right"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
           
           

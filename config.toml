@@ -79,7 +79,7 @@ enable = true
 gmap_api = "2ddd614e6495d2f12c99d4246168c23f03e7b049"
 map_latitude = "38.31218"
 map_longitude = "-85.80290"
-map_marker = "images/marker.png"
+map_marker = ""
 
 
 

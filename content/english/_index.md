@@ -30,18 +30,18 @@ service:
 cta:
   enable: true
   bg_image: "images/WhosLawn1.png"
-  title: "We design delightful digital experiences."
-  content: "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  title: "We'll Make Your Neigbors Jealous of How Your Lawn Looks."
+  content: "We take pride in our service, quality and reliability. Schedule your free quote today!"
   button:
     enable: true
-    label: "Tell Us Your Story"
+    label: "Schedule a Quote"
     link: "contact"
 
 ############################# Funfacts ###############################
 funfacts:
   enable: true
   title: "Facts About Whos Your Lawn Guy"
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
+  description: "'Just a few ways we set ourselves apart from our competition.'"
   funfact_item:
   # funfacts item loop
   - icon: "ion-ios-chatboxes-outline" #ionicon pack v2: https://ionicons.com/v2/
