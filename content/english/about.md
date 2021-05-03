@@ -1,7 +1,7 @@
 ---
 title: "About Us"
 description: "Whos Your Lawn Guy"
-bg_image: "images/grass.jpg"
+bg_image: "images/WYLG.jpeg"
 layout: "about"
 draft: false
 
