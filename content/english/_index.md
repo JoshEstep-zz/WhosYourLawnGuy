@@ -4,7 +4,7 @@ banner:
   enable: true
   bg_image: "images/Mower.jpeg"
   bg_overlay: true
-  title: "Whos Your Lawn Guy"
+  title: "Whos Your Lawn Guy!"
   content: "Experts in residential lawncare. Located in Southern Indiana, WhosYourLawnGuy services residential properties in surrounding areas."
   button:
     enable: true
