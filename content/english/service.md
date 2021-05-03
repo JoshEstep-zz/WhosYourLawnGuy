@@ -1,7 +1,7 @@
 ---
 title: "Service"
 description: "this is meta description"
-bg_image: "images/WYLG.jpeg"
+bg_image: "images/feature-bg.jpg"
 layout: "service"
 draft: false
 
@@ -26,7 +26,7 @@ featured_service:
   service_item:
     # featured service item loop
     - name : "Lawn Striping"
-      icon : "images/Striping.png"
+      icon : "ion-erlenmeyer-flask"
       color : "primary"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
       
