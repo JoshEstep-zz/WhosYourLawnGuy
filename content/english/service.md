@@ -26,7 +26,7 @@ featured_service:
   service_item:
     # featured service item loop
     - name : "Lawn Striping"
-      icon : "ion-erlenmeyer-flask"
+      icon : "images/Striping.png"
       color : "primary"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
       
