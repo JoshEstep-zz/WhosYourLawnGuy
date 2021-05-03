@@ -76,9 +76,9 @@ success_image = "images/paper-plane.svg"
 ################################# Google map ##################################
 [params.gmap]
 enable = true
-gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+gmap_api = "c877c839d905744e467e23a04206d18bcc83b730"
+map_latitude = "38.31218"
+map_longitude = "-85.80290"
 map_marker = "images/marker.png"
 
 
