@@ -37,7 +37,7 @@ unsafe = true
 
 ################################# Default parameters ##########################
 [params]
-logo ="/images/logo.png"
+logo ="/images/lawnguylogo.png"
 logo_width = "160px"
 # OpenGraph / Twitter Card metadata
 title = "Whos Your Lawn Guy"
