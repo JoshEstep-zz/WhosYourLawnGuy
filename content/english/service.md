@@ -47,28 +47,27 @@ featured_service:
 service:
   enable : true
   title : "Our Services"
-  description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
-          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
+  description : "Whos Your Lawn Guy! will go above and beyond to ensure your lawn is beautiful and well kept."
   service_item:
     # service item loop
     - icon : ion-coffee #ionicon pack v2 : https://ionicons.com/v2/
       name: Striping
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "ll of our mowers are equipped with striping kits.  Striping kits push the grass in certain directions to give the appearance of stripes or diamonds in the lawn."
 
     # service item loop
     - icon : ion-compass #ionicon pack v2 : https://ionicons.com/v2/
       name: Edging
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "Creates a clean line that separates the lawn from driveways, sidewalks, and curbs."
 
     # service item loop
     - icon : ion-image #ionicon pack v2 : https://ionicons.com/v2/
-      name: Weedeating
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name: Trimming
+      content: "Weed eating the lawn where the mower can’t reach or is unstable to ride on.  All the edges and around every structure, landscape, and pavement on the property."
 
     # service item loop
     - icon : ion-bug #ionicon pack v2 : https://ionicons.com/v2/
       name: Clean Up
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "Pick up of minimal trash and brush prior to mowing.  High velocity backpack blowers to put the cut blades of grass back into the lawn for natural fertilization and also blowing all pavement and porches."
 
 
       
