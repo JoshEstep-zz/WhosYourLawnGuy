@@ -31,7 +31,7 @@ featured_service:
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
       
     # featured service item loop
-    - name : "Precision Weed Eating"
+    - name : "Precision Trimming"
       icon : "ion-leaf"
       color : "primary-dark"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
@@ -47,7 +47,7 @@ featured_service:
 service:
   enable : true
   title : "Our Services"
-  description : "Whos Your Lawn Guy! will go above and beyond to ensure your lawn is beautiful and well kept."
+  description : "Whos Your Lawn Guy! will go above and beyond to ensure your lawn is beautiful and well"
   service_item:
     # service item loop
     - icon : ion-coffee #ionicon pack v2 : https://ionicons.com/v2/
