@@ -52,7 +52,7 @@ service:
     # service item loop
     - icon : ion-coffee #ionicon pack v2 : https://ionicons.com/v2/
       name: Striping
-      content: "ll of our mowers are equipped with striping kits.  Striping kits push the grass in certain directions to give the appearance of stripes or diamonds in the lawn."
+      content: "All of our mowers are equipped with striping kits.  Striping kits push the grass in certain directions to give the appearance of stripes or diamonds in the lawn."
 
     # service item loop
     - icon : ion-compass #ionicon pack v2 : https://ionicons.com/v2/
