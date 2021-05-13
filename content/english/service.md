@@ -50,7 +50,7 @@ service:
   description : "Whos Your Lawn Guy! will go above and beyond to ensure your lawn is beautiful and well"
   service_item:
     # service item loop
-    - icon : ion-coffee #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : ion-leaf #ionicon pack v2 : https://ionicons.com/v2/
       name: Striping
       content: "All of our mowers are equipped with striping kits.  Striping kits push the grass in certain directions to give the appearance of stripes or diamonds in the lawn."
 
